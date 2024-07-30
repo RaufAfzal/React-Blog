@@ -1,0 +1,22 @@
+{
+  "Posts": [
+    {
+      "id": "1",
+      "title": "First Posts",
+      "datetime": "2024-07-30 21:33:47 UTC+5",
+      "body": "First owner"
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "datetime": "2024-07-30 18:56:07 UTC+5",
+      "body": "second owner"
+    },
+    {
+      "id": "3",
+      "title": "Third Post",
+      "datetime": "2024-07-30 18:57:15 UTC+5",
+      "body": "Third ever Post"
+    }
+  ]
+}
